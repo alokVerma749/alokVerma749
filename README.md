@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/alok_std" target="blank"><img src="https://img.shields.io/twitter/follow/alok_std?logo=twitter&style=for-the-badge" alt="alok_std" /></a> </p>
 
-- 🔭 **Freelance Web Developer** specializing in React.js and the MERN stack.
+- 🔭 **Freelance Web Developer** specializing in React.js and MERN stack.
 
-- 🌱 Currently enhancing skills in Reac Native and AWS.
+- 🌱 Currently enhancing skills in React Native and AWS.
 
 - 💬   Passionate about open source, accessibility, and building inclusive web experiences.
 
