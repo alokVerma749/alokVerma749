@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/alok_std" target="blank"><img src="https://img.shields.io/twitter/follow/alok_std?logo=twitter&style=for-the-badge" alt="alok_std" /></a> </p>
 
-- 🔭 I’m currently working as a **Freelancer**
+- 🔭 **Freelance Web Developer** specializing in React.js and the MERN stack.
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 Currently enhancing skills in Reac Native and AWS.
 
-- 💬  I would love to talk about **open source and accessibility.**
+- 💬   Passionate about open source, accessibility, and building inclusive web experiences.
 
 - 👨‍💻 My portfolio is available at [https://alokverma.vercel.app](https://alokverma.vercel.app/)
 
