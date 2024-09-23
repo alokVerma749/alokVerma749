@@ -24,11 +24,8 @@
   <a href="https://twitter.com/alok_std" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="alok_std" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/channel/UCy7JO3d_C1pc1CcONs2MY0g" target="blank">
+  <a href="https://www.linkedin.com/in/alok-verma-71106a1a0/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alok verma" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/alok verma" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" alt="alok verma" height="30" width="40" />
   </a>
   <a href="https://instagram.com/code_hostel" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="code_hostel" height="30" width="40" />
